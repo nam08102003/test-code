@@ -1,0 +1,8 @@
+// Base Scss
+@import "./partials/base/_reset.scss";
+@import "./partials/base/_variables.scss";
+
+// Components Scss
+@import "./partials/components/elements/input.scss";
+@import "./partials/components/elements/button.scss";
+@import "./partials/components/elements/textarea.scss";
